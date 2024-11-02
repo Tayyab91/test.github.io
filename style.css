@@ -1,0 +1,15 @@
+.calculator {
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+}
+#display {
+    width: 100%;
+    font-size: 2em;
+    text-align: right;
+    padding: 10px;
+}
+.buttons button {
+    width: 25%;
+    font-size: 1.5em;
+}
